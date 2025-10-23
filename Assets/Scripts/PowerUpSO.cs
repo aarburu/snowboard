@@ -26,10 +26,3 @@ public class PowerUpSO : ScriptableObject
     }
 
 }
-
-
-public enum PowerUpType
-{
-    Speed,
-    Torque
-}
